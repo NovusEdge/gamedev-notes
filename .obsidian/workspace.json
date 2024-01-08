@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "7e613814764d7744",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed941d94d2eb0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d698f1d74cbe4c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Basic Newtonian Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27b279450e28b244",
+    "type": "split",
+    "children": [
+      {
+        "id": "993453dc7b0edcd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278b1e6a5acb54a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c4412437e14c65ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac671080eb16d1db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93df3c5df81c3a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb39ace1bc1e9315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f138dcfe147db14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Basic Newtonian Mechanics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "338e7c91038e3032",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Basic Newtonian Mechanics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d381340c4ac73aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32bba5dca7f404bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Basic Newtonian Mechanics.md"
+              }
+            }
+          },
+          {
+            "id": "84ac5eb662c2fc46",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d698f1d74cbe4c72",
+  "lastOpenFiles": [
+    "Physics/SI Units.md",
+    "Physics/Basic Newtonian Mechanics.md",
+    "Math (C103)/Logic and Propositions.md",
+    "Math (C103)/Set Theory.md",
+    "Math (C103)/Assets/Logical_Equivalence.png",
+    "Math (C103)/Assets/Logical_Operations.png",
+    "Math (C103)/Algebra.md",
+    "Math (C103)/Assets/SetTheory_Union.png",
+    "Math (C103)/Assets/SetTheory_Union.png.crdownload",
+    "Math (C103)/Assets/SetTheory_Intersection.png",
+    "Math (C103)/Assets/SetTheory_Intersection.png.crdownload",
+    "Math (C103)/Assets",
+    "Math (C103)/Set Theory/Introduction.md",
+    "Math (C103)/Graph Theory",
+    "Math (C103)/Algebra",
+    "Math (C103)/Vector Algebra",
+    "Math (C103)/Matrices",
+    "Math (C103)/Number Theory",
+    "Math (C103)/Combinatorics",
+    "Math (C103)/Functions"
+  ]
+}
