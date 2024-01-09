@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed941d94d2eb0b5",
+        "id": "3d35226422fa8741",
         "type": "tabs",
         "children": [
           {
-            "id": "d698f1d74cbe4c72",
+            "id": "b7deaa0bf81050cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,13 +155,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d698f1d74cbe4c72",
+  "active": "b7deaa0bf81050cd",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Physics/Basic Newtonian Mechanics.md",
-    "Physics/SI Units.md",
-    "Math (C103)/Logic and Propositions.md",
     "Math (C103)/Set Theory.md",
+    "Math (C103)/Logic and Propositions.md",
+    "Game Design/Saving and Loading.md",
+    "Engine Specific/Unity",
+    "Engine Specific",
+    "Game Design/Map Design.md",
+    "Game Design/Level Design.md",
+    "Game Design/Character Design.md",
+    "Game Design/Engagement vs Addiction.md",
+    "Physics/Basic Newtonian Mechanics.md",
+    "Game Design",
+    "Physics/Assets/Centripetal_vs_Centrifugal.png",
+    "Physics/Assets/Centripetal_Force.png",
+    "Physics/Assets/Springs_Hookes_Law.png",
+    "Physics/Assets/Friction_AppliedForce.png",
+    "Physics/Assets/Friction_RampNormal.png",
+    "Physics/Assets",
+    "Physics/Assets/Friction_StillObject.png",
+    "Untitled.canvas",
+    "Physics/SI Units.md",
     "Math (C103)/Assets/Logical_Equivalence.png",
     "Math (C103)/Assets/Logical_Operations.png",
     "Math (C103)/Algebra.md",
@@ -173,10 +188,6 @@
     "Math (C103)/Set Theory/Introduction.md",
     "Math (C103)/Graph Theory",
     "Math (C103)/Algebra",
-    "Math (C103)/Vector Algebra",
-    "Math (C103)/Matrices",
-    "Math (C103)/Number Theory",
-    "Math (C103)/Combinatorics",
-    "Math (C103)/Functions"
+    "Math (C103)/Vector Algebra"
   ]
 }
