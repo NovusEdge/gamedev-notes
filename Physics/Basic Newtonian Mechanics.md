@@ -62,3 +62,26 @@ According to Hooke’s Law, if a spring with a weight on the end of it is extend
 
 Mathematically represented, the equation for centripetal force looks very similar to that of gravitational force: $$F_{c} = \frac{mv^2}{r}$$
 
+#### Spring + Ramp
+
+![[Spring_Ramp.png]]
+
+The force component parallel to the ramp is given by:
+$$F_{p} = mg\cdot (\sin{\theta} - \mu \cos{\theta}) - k \Delta x$$
+## Work
+Work is performed when a force, $F$, is applied to an object over a distance, $d$. $$W = F \cdot d$$
+The SI unit for work done is _Joules_ ($J$)
+## Energy
+Energy is defined as the capacity for doing work. Energy is a state variable, meaning that it is used to characterize the physical state of an object. Energy, work, and force are closely related. 
+
+There are several different forms that energy can take. **Kinetic energy** is related to the motion of an object. **Potential energy** can be thought of as stored energy and is related to the position of an object. If work is performed to move an object from one location to another, part or all of that work might be stored in the object as potential energy. Taken together, the kinetic and potential energies of an object are also referred to as the **mechanical energy** of the object. . The internal energy type you are probably most familiar with is **thermal energy**, which is related to the temperature of an object. Objects can also store **chemical energy**.
+
+
+### Kinetic Energy
+The kinetic energy of an object, $E_{K}$,is directly proportional to the mass of the object and the square of the velocity. 
+
+$$E_{K} = \frac{1}{2}mv^2$$
+Work may be represented as: $$W = \frac{1}{2}m(v_{f}^{2} - v_{0}^2)$$
+
+Work is performed on the projectile as it travels upwards. When the projectile reaches its highest point, its velocity is zero, meaning that all of its kinetic energy has been converted to work. The height,$h$, that the projectile will reach can be found by equating its original kinetic energy to the work performed on it. $$\frac{1}{2}mv^{2}= mgh \implies h_{max} = \frac{v^2}{2g}$$
+### Potential Energy

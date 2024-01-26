@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Basic Newtonian Mechanics.md",
+                "file": "Game Design/Saving and Loading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95e14626bbf286fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Design/Map Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Basic Newtonian Mechanics.md",
+                "file": "Game Design/Map Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Basic Newtonian Mechanics.md",
+                "file": "Game Design/Map Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Basic Newtonian Mechanics.md"
+                "file": "Game Design/Map Design.md"
               }
             }
           },
@@ -155,18 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7deaa0bf81050cd",
+  "active": "95e14626bbf286fb",
   "lastOpenFiles": [
+    "Game Design/Map Design.md",
+    "Physics/Basic Newtonian Mechanics.md",
+    "Physics/SI Units.md",
+    "Game Design/GoW-SaveLoad-Engine.pdf",
+    "Game Design/Saving and Loading.md",
+    "Game Design/Engagement vs Addiction.md",
+    "Game Design/Character Design.md",
+    "Game Design/Level Design.md",
+    "Physics/Assets/Spring_Ramp.png",
+    "README.md",
     "Math (C103)/Set Theory.md",
     "Math (C103)/Logic and Propositions.md",
-    "Game Design/Saving and Loading.md",
     "Engine Specific/Unity",
     "Engine Specific",
-    "Game Design/Map Design.md",
-    "Game Design/Level Design.md",
-    "Game Design/Character Design.md",
-    "Game Design/Engagement vs Addiction.md",
-    "Physics/Basic Newtonian Mechanics.md",
     "Game Design",
     "Physics/Assets/Centripetal_vs_Centrifugal.png",
     "Physics/Assets/Centripetal_Force.png",
@@ -176,18 +193,15 @@
     "Physics/Assets",
     "Physics/Assets/Friction_StillObject.png",
     "Untitled.canvas",
-    "Physics/SI Units.md",
     "Math (C103)/Assets/Logical_Equivalence.png",
     "Math (C103)/Assets/Logical_Operations.png",
     "Math (C103)/Algebra.md",
     "Math (C103)/Assets/SetTheory_Union.png",
     "Math (C103)/Assets/SetTheory_Union.png.crdownload",
-    "Math (C103)/Assets/SetTheory_Intersection.png",
     "Math (C103)/Assets/SetTheory_Intersection.png.crdownload",
     "Math (C103)/Assets",
     "Math (C103)/Set Theory/Introduction.md",
     "Math (C103)/Graph Theory",
-    "Math (C103)/Algebra",
-    "Math (C103)/Vector Algebra"
+    "Math (C103)/Algebra"
   ]
 }
