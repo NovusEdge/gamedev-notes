@@ -10,8 +10,11 @@ Games like No-Man's-Sky are a prime example of good-but-not-great map design. Th
 
 A prime example for ***GOOD*** map design is the maps in _Legend of Zelda_ or in _God Of War 2018_. Both the games had a lot of information represented in the maps, however, they managed to condense it and convey it in a manner that was easier for the target audience to digest and understand. 
 
-Contrary to popular belief and common instruction, good game maps DO NOT _need_ to be _believable_, that's just a consequence of the thematic settings of the game in question. It doesn't need to be _realistic_, that too, is a consequence of the thematic settings of the game in question. i.e.
+Contrary to popular belief and common instruction, good game maps DO NOT _need_ to be _believable_, that's just a consequence of the thematic settings of the game in question. It doesn't need to be _realistic_, that too, is a consequence of the thematic settings of the game in question. i.e. it should _fit_ in with the storyline and such. 
 
+Yet another aspect of good map and level design is **environmental storytelling**. We could use the environment as a means to convey a story and to set the mood for the game/level. _Sekiro_, for an instance, does this very well. There's a lot of cutscenes unlike many other soulslike games, however it still has many environment elements that reflect the lore and the story's flow. 
+
+![[Game design map.png]]
 
 ---
 ### References
