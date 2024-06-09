@@ -8,4 +8,3 @@ Whereas `Update()` can vary out of step with the physics engine, either faster o
 ##### Reference
 - https://stackoverflow.com/questions/34447682/what-is-the-difference-between-update-fixedupdate-in-unity
 - https://learn.unity.com/tutorial/update-and-fixedupdate
-- 
