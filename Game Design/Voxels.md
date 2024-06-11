@@ -76,6 +76,7 @@ public class Chunk : MonoBehaviour
 > I'm not so sure as to how effective this is in practice. Will need to test it out separately later.
 
 
+
 --- 
 
 ##### References
@@ -84,3 +85,4 @@ public class Chunk : MonoBehaviour
 - https://medium.com/@claygarrett/voxel-performance-instancing-vs-chunking-9643d776c11d
 - https://nickmcd.me/2021/04/04/high-performance-voxel-engine/
 - https://medium.com/@adamy1558/building-a-high-performance-voxel-engine-in-unity-a-step-by-step-guide-part-2-mesh-generation-bcf1401a5b4b
+- https://youtube.com/playlist?list=PLcRSafycjWFdYej0h_9sMD6rEUCpa7hDH&feature=shared

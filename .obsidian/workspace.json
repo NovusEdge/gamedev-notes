@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design/Voxels.md",
+                "file": "Engine Specific/Unity/FPS Character Controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cc10414c70df4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engine Specific/Unity/FPS Character Controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eef9157d3a5df22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engine Specific/Unity/Camera Movement - Looking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design/Voxels.md",
+                "file": "Engine Specific/Unity/Camera Movement - Looking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design/Voxels.md",
+                "file": "Engine Specific/Unity/Camera Movement - Looking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design/Voxels.md"
+                "file": "Engine Specific/Unity/Camera Movement - Looking.md"
               }
             }
           },
@@ -182,8 +206,18 @@
   },
   "active": "278b1e6a5acb54a5",
   "lastOpenFiles": [
-    "Engine Specific/Unity/Start vs Awake.md",
+    "Engine Specific/Unity/FPS",
+    "Engine Specific/Unity/FPS Character Controller.md",
+    "Engine Specific/Unity/Player Movement.md",
+    "Engine Specific/Unity/Camera Movement - Looking.md",
+    "Engine Specific/Unity/Interaction System.md",
+    "Game Design/Control Schemes.md",
+    "Game Design/Engagement vs Addiction.md",
+    "Game Design/Level Design.md",
+    "Game Design/Principles of Good Level Design.md",
+    "Game Design/Character Design.md",
     "Game Design/Voxels.md",
+    "Engine Specific/Unity/Start vs Awake.md",
     "README.md",
     "Game Design/Mechanics and Specifics/Jumping in 2D Platformers.md",
     "Engine Specific/Unity/Assets",
@@ -193,18 +227,14 @@
     "Game Design/Mechanics and Specifics",
     "Cover Letter.md",
     "Game Design/Assets/Game design map.png",
-    "Game Design/Principles of Good Level Design.md",
     "Pasted image 20240126130248.png",
     "Game Design/Assets/Pasted image 20240126130221.png",
     "Game Design/Assets/GoW-SaveLoad-Engine.pdf",
     "Engine Specific/Assets",
     "Game Design/Assets",
     "Game Design/Assets/Game Design Diagram.png",
-    "Game Design/Level Design.md",
     "Physics/Basic Newtonian Mechanics.md",
     "Physics/SI Units.md",
-    "Game Design/Engagement vs Addiction.md",
-    "Game Design/Character Design.md",
     "Physics/Assets/Spring_Ramp.png",
     "Math (C103)/Set Theory.md",
     "Math (C103)/Logic and Propositions.md",
